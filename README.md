@@ -1,2 +1,0 @@
-# ownproject1
- bymyown
